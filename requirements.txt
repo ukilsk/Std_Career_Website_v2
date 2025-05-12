@@ -1,2 +1,4 @@
 flask
 gunicon
+sqlalchemy
+pymysql
