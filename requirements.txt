@@ -2,3 +2,7 @@ flask
 gunicon
 sqlalchemy
 pymysql
+psycopg2-binary
+sqlalchemy
+psycopg2-binary
+sqlalchemy
